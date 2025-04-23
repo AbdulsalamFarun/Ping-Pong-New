@@ -14,7 +14,7 @@ public class GameManager : MonoBehaviour
     public GameObject Player2Paddle;
     public GameObject Player2Goal;
 
-    [Header("")]
+    [Header("Text UI")]
     public GameObject ScoreTextRight;
     public GameObject ScoreTextLeft;
 
